@@ -32,7 +32,7 @@ O projeto está organizado na seguinte estrutura de arquivos:
  
 ## Tecnologias Utilizadas
 - **Kotlin**
-- **Android Studio (Java)**
+- **Android Studio** (Iniciado em **Java** e migrado para **Kotlin**; por isso o **GitHub** ainda identifica **Java**)
 - **Jetpack Compose**
 - **Firebase**
 - **Cloud Firestore**
@@ -41,6 +41,7 @@ O projeto está organizado na seguinte estrutura de arquivos:
 - Aplicação executada em dispositivo ou emulador **Android** do **Android Studio**
 - Comunicação direta com o banco de dados em nuvem via **Firebase**
 - Atualização automática da interface conforme alterações no banco
+
 
 
 
